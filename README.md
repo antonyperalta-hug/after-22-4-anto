@@ -1,2 +1,8 @@
-# after-22-4-anto
-Proeycto creado en los after para subir a github
+Market - Tech (poner aca el nombre de nuestro proyecto)
+
+Descripción:
+
+Este proyecto es una página web básica desarrollada como parte de un curso de Front-End. La página está estructurada con HTML semántico y utiliza las etiquetas <header>, <main>, y <footer> para organizar el contenido. El objetivo es aprender a crear la estructura básica de una página web y prepararla para futuras mejoras con CSS y JavaScript. (esta parte se puede dejar es genérica)
+
+Este proyecto tiene la finalidad de mostrar íconos para su posterior compra. (aquí una breve descripción de nuestro proyecto)
+Etc.
